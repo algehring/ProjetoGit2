@@ -1,0 +1,1 @@
+Projeto para o melhor uso do Git.
